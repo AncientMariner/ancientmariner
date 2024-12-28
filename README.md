@@ -1,6 +1,8 @@
 ## Hey there 🦾
 
-![Snake animation](https://github.com/ancientmariner/ancientmariner/blob/output/github-contribution-grid-snake.svg)
+I am an Ancient Mariner 🌊.
+
+I am keen on programming, solving logical tasks, puzzles, tongue twisters, music, sci-fi, travelling around the 🗺️
 
 <!--
 **AncientMariner/ancientmariner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
