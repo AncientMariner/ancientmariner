@@ -9,7 +9,7 @@
 ```
 I am an Ancient Mariner 🌊.
 
-I am keen on programming💻, solving logical tasks 🤔, puzzles 🧩, tongue twisters 👅🔀, music 🎵, sci-fi 🚀, travelling 🧳 around the 🗺️
+I am keen on programming💻, solving logical tasks and puzzles 🧩, tongue twisters 👅🔀, music 🎵, sci-fi 🚀, travelling 🧳 around the 🗺️
 
 ### Speaking about the most-used tools I deal with every day, they are:
 
